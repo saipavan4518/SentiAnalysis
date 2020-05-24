@@ -8,7 +8,7 @@ The file we used for giving the class label using StentiStrength jar file. you c
 
 ## Code Description
 We have differnet methods in this code, they are listed below. <br />
-- clean_tweet(#cleanTweet)
+- [clean_tweet](#cleanTweet)
 - storetocsv
 - checkscore
 - lemmtext
@@ -31,8 +31,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 
-##About
-Venkata Sai Pavan M , you can contact me here [LinkedIN](https://www.linkedin.com/in/venkata-sai-pavan-madabathula-22386819b/) 
+## About
+Venkata Sai Pavan M , you can contact me here [LinkedIN](https://www.linkedin.com/in/venkata-sai-pavan-madabathula-22386819b/) <br />
+if you liked the code , you can drop me a like in LinkedIN.
 
 
 
